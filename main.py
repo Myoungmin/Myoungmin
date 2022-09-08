@@ -5,8 +5,7 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
 markdown_text = """
-### Hi there 👋
-## 📌Latest Blog Post📌
+### 📌Latest Blog Post📌
 
 """  # list of blog posts will be appended here
 
